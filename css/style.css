@@ -1,8 +1,6 @@
 h1{
   font-family: 'Rampart One', cursive;
-  margin-right: auto;
-  margin-left: 750px;
-  border-collapse:collapse;
+  text-align: center;
   }
 .pictureform {
   width: 200px;
